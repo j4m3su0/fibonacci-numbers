@@ -1,2 +1,2 @@
 # fibonacci-numbers
-An academic journal on Fibonacci numbers using Jupyter Notebook.
+This repository presents a detailed academic journal exploring the properties and applications of Fibonacci numbers.
